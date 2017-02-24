@@ -15,10 +15,38 @@ body{
 .nav a{
   text-decoration: none;
   color: black;
+  -webkit-transition-duration: 0.4s; /* Safari */
+  transition-duration: 0.4s;
 }
 .nav a:hover{
-
+  color: #42ebf4;
+  text-decoration: none;
 }
 .nav a,visited{
-
+  text-decoration: none;
+  color: black;
+}
+.first{
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.do{
+  padding-left: 7px;
+}
+.second{
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.cont{
+  padding-left: 7px;
+}
+.third{
+  padding-left: 7px;
+  padding-right: 7px;
+}
+.down{
+  padding-left: 7px;
+}
+.fourth{
+  padding-left: 7px;
 }
