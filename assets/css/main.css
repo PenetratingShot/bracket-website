@@ -1,4 +1,4 @@
-@import url('https://fonts.googleapis.com/css?family=Quicksand');
+#1E90FF@import url('https://fonts.googleapis.com/css?family=Quicksand');
 body{
   font-family: 'Quicksand', sans-serif;
 }
@@ -7,6 +7,7 @@ body{
 }
 .nav{
   top: 5%;
+  font-size: 14px;
 }
 .nav br{
   background-color: white;
@@ -49,4 +50,7 @@ body{
 }
 .fourth{
   padding-left: 7px;
+}
+.img{
+  padding-top: 5px;
 }
