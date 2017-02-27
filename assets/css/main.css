@@ -21,7 +21,7 @@ body{
   transition-duration: 0.4s;
 }
 .nav a:hover{
-  color: #42ebf4;
+  color: #64d1a5;
   text-decoration: none;
 }
 .nav a,visited{
@@ -51,6 +51,9 @@ body{
 }
 .fourth{
   padding-left: 7px;
+}
+.fith {
+  padding-left:7px;
 }
 .img{
   padding-top: 5px;
