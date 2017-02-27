@@ -11,9 +11,8 @@ body {
     background: #f5f5f5;
 }
 .right {
-    width:80%;
+    width:70%;
     height: auto;
-    outline: 1px solid;
     position: absolute;
     right: 0;
     background: white;
