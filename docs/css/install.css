@@ -13,6 +13,7 @@ body {
 .right {
     width:80%;
     height: auto;
+    outline: 1px solid;
     position: absolute;
     right: 0;
     background: white;
